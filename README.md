@@ -1,0 +1,2 @@
+# Anomaly-Detection-in-Apple-Stock-Prices-Using-LSTM-Z-Score-and-ARIMA
+This project demonstrates anomaly detection on Apple stock prices over 5 years using three different techniques—LSTM (deep learning), Z-Score (statistical thresholding), and ARIMA (forecasting residuals). It includes preprocessing, supervised sequence modeling, and performance comparison with interactive plots and markdown documentation.
