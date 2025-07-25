@@ -28,9 +28,7 @@ The chart below visualizes the detected anomalies on Apple's stock price:
 - **Orange circles** → Z-score anomalies  
 - **Green triangles** → ARIMA anomalies  
 
-![Anomaly Plot](./52643a37-ab8c-4fa0-b000-70181785a086.png)
 
----
 
 
 ---
