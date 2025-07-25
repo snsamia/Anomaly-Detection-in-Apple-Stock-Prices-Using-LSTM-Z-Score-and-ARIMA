@@ -1,7 +1,8 @@
 
 # 📈 Apple Stock Price Anomaly Detection
 
-![Project Banner] ([https://github.com/snsamia/Anomaly-Detection-in-Apple-Stock-Prices-Using-LSTM-Z-Score-and-ARIMA/blob/main/anomaly.png](https://github.com/snsamia/Anomaly-Detection-in-Apple-Stock-Prices-Using-LSTM-Z-Score-and-ARIMA/blob/main/anomaly.png)
+![Project Banner]([https://github.com/snsamia/Anomaly-Detection-in-Apple-Stock-Prices-Using-LSTM-Z-Score-and-ARIMA/main/anomaly.png](https://github.com/snsamia/Anomaly-Detection-in-Apple-Stock-Prices-Using-LSTM-Z-Score-and-ARIMA/blob/main/anomaly.png)
+![Project Banner](https://raw.githubusercontent.com/snsamia/Anomaly-Detection-in-Beehive-Environmental-Data-Autoencoder-ML-Methods-/main/beehive_project_banner_fancy.png)
 This project applies **three anomaly detection techniques** to Apple stock price data from the last 5 years:
 
 
