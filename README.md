@@ -1,7 +1,9 @@
 
 # 📈 Apple Stock Price Anomaly Detection
 
+![Project Banner] (https://github.com/snsamia/Anomaly-Detection-in-Apple-Stock-Prices-Using-LSTM-Z-Score-and-ARIMA/blob/main/anomaly.png)
 This project applies **three anomaly detection techniques** to Apple stock price data from the last 5 years:
+
 
 - 🔴 **LSTM** (Long Short-Term Memory neural network)
 - 🟠 **Z-Score** (statistical thresholding)
