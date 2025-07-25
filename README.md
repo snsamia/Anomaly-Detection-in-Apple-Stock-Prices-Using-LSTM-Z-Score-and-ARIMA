@@ -31,11 +31,6 @@ The chart below visualizes the detected anomalies on Apple's stock price:
 
 ---
 
-## 🗂️ Dataset
-
-The dataset used is from Kaggle:
-
-🔗 [Apple Stock Prices - 5 Years](https://www.kaggle.com/datasets/vivovinco/apple-stock-price-data)
 
 ---
 
